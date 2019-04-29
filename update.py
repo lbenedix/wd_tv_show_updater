@@ -27,7 +27,7 @@ def get_wd_id(s):
         except:
             print(f'something wrong with {s} [{wd_id}]')
 
-    return None
+    return input("Wikidata ID: ")
 
 
 def get_no_of_seasons(wd_id):
@@ -55,19 +55,10 @@ if __name__ == '__main__':
         shows[show.name]['last_downloaded'] = max([parse_int(x.name) for x in show.iterdir() if x.is_dir()])
 
         if shows[show.name]["wd_id"] is None:
-            wd_id = get_wd_id(show.name)
-            shows[show.name]["wd_id"] = wd_id
-        else:
-            wd_id = shows[show.name]["wd_id"]
+            shows[show.name]["wd_id"] = get_wd_id(show.name)
+        wd_id = shows[show.name]["wd_id"]
 
-        if wd_id is None:
-            wd_id = input("Wikidata ID: ")
-
-        shows[show.name]["wd_id"] = wd_id
-
-        no_of_seasons = get_no_of_seasons(wd_id)
-
-        shows[show.name]['last_season_available'] = no_of_seasons
+        shows[show.name]['last_season_available'] = get_no_of_seasons(wd_id)
 
         # print(json.dumps(shows[show.name], indent=2))
 
