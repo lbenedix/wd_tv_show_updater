@@ -30,11 +30,20 @@ def get_wd_id(s):
     return input("Wikidata ID: ")
 
 
-def get_no_of_seasons(wd_id):
+def get_wd_object(wd_id):
     r = requests.get(f'https://www.wikidata.org/wiki/Special:EntityData/{wd_id}.json')
-    data = r.json()
+    return r.json()
 
-    return int(data['entities'][wd_id]['claims']['P2437'][0]['mainsnak']['datavalue']['value']['amount'])
+
+def get_no_of_seasons(wd_object):
+    return int(wd_object['entities'][wd_id]['claims']['P2437'][0]['mainsnak']['datavalue']['value']['amount'])
+
+
+def get_imdb_id(wd_object):
+    if 'P345' not in wd_object['entities'][wd_id]['claims']:
+        return None
+
+    return wd_object['entities'][wd_id]['claims']['P345'][0]['mainsnak']['datavalue']['value']
 
 
 if __name__ == '__main__':
@@ -58,7 +67,9 @@ if __name__ == '__main__':
             shows[show.name]["wd_id"] = get_wd_id(show.name)
         wd_id = shows[show.name]["wd_id"]
 
-        shows[show.name]['last_season_available'] = get_no_of_seasons(wd_id)
+        wd_object = get_wd_object(wd_id)
+        shows[show.name]['last_season_available'] = get_no_of_seasons(wd_object)
+        shows[show.name]['imdb_id'] = get_imdb_id(wd_object)
 
         # print(json.dumps(shows[show.name], indent=2))
 
