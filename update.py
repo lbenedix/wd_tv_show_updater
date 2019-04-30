@@ -46,6 +46,13 @@ def get_imdb_id(wd_object):
     return wd_object['entities'][wd_id]['claims']['P345'][0]['mainsnak']['datavalue']['value']
 
 
+def get_imdb_rating(imdb_id):
+    from requests_html import HTMLSession
+    session = HTMLSession()
+    r = session.get(f'https://www.imdb.com/title/{imdb_id}/')
+    return float(r.html.find('.ratingValue span')[0].text)
+
+
 if __name__ == '__main__':
 
     root_dir = Path(sys.argv[1])
@@ -69,7 +76,10 @@ if __name__ == '__main__':
 
         wd_object = get_wd_object(wd_id)
         shows[show.name]['last_season_available'] = get_no_of_seasons(wd_object)
-        shows[show.name]['imdb_id'] = get_imdb_id(wd_object)
+
+        imdb_id = get_imdb_id(wd_object)
+        shows[show.name]['imdb_id'] = imdb_id
+        shows[show.name]['imdb_rating'] = get_imdb_rating(imdb_id)
 
         # print(json.dumps(shows[show.name], indent=2))
 
