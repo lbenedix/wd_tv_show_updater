@@ -1,5 +1,6 @@
 import json
 from collections import defaultdict
+from functools import lru_cache
 from itertools import cycle
 from pathlib import Path
 import os
@@ -28,25 +29,22 @@ def get_wd_id(s):
         try:
 
             if r.json()['entities'][wd_id]['claims']['P31'][0]['mainsnak']['datavalue']['value']['id'] in (
-            'Q5398426', 'Q581714', 'Q1259759', 'Q15416'):
+                    'Q5398426', 'Q581714', 'Q1259759', 'Q15416'):
                 return wd_id
         except:
             print(f'something wrong with {s} [{wd_id}]')
 
     return input("Wikidata ID: ")
 
-
+@lru_cache(maxsize=100)
 def get_wd_object(wd_id):
     r = requests.get(f'https://www.wikidata.org/wiki/Special:EntityData/{wd_id}.json')
     return r.json()
 
-def get_type(wd_id, wd_object):
-    try:
-        return wd_object['entities'][wd_id]['claims']['P31'][0]['mainsnak']['datavalue']['value']['id']
-    except:
-        return None
 
-def get_title(wd_id, wd_object):
+@lru_cache(maxsize=100)
+def get_label(wd_id):
+    wd_object = get_wd_object(wd_id)
     labels = wd_object['entities'][wd_id]['labels']
     if 'en' in labels:
         return labels['en']['value']
@@ -54,7 +52,16 @@ def get_title(wd_id, wd_object):
         return labels['de']['value']
 
 
-def get_no_of_seasons(wd_id, wd_object):
+def get_type(wd_id, wd_object):
+    try:
+        wd_id = wd_object['entities'][wd_id]['claims']['P31'][0]['mainsnak']['datavalue']['value']['id']
+        return f'{get_label(wd_id)} - [{wd_id}]'
+    except:
+        return None
+
+
+def get_no_of_seasons(wd_id):
+    wd_object = get_wd_object(wd_id)
     try:
         return int(wd_object['entities'][wd_id]['claims']['P2437'][0]['mainsnak']['datavalue']['value']['amount'])
     except:
@@ -108,13 +115,13 @@ if __name__ == '__main__':
 
         wd_object = get_wd_object(wd_id)
 
-        shows[show.name]['last_season_available'] = get_no_of_seasons(wd_id, wd_object)
-        shows[show.name]['wd_title'] = get_title(wd_id, wd_object)
+        shows[show.name]['last_season_available'] = get_no_of_seasons(wd_id)
+        shows[show.name]['wd_title'] = get_label(wd_id)
         shows[show.name]['wd_type'] = get_type(wd_id, wd_object)
 
-        imdb_id = get_imdb_id(wd_object)
-        shows[show.name]['imdb_id'] = imdb_id
-        shows[show.name]['imdb_rating'] = get_imdb_rating(imdb_id)
+        # imdb_id = get_imdb_id(wd_object)
+        # shows[show.name]['imdb_id'] = imdb_id
+        # shows[show.name]['imdb_rating'] = get_imdb_rating(imdb_id)
 
         # print(json.dumps(shows[show.name], indent=2))
 
