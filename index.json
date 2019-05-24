@@ -1,0 +1,3322 @@
+{
+  "11.22.63 - Der Anschlag": {
+    "imdb_id": "tt2879552",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q21528692",
+    "wd_title": "11.22.63",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "12 Monkeys": {
+    "imdb_id": "tt3148266",
+    "imdb_rating": 7.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q18421127",
+    "wd_title": "12 Monkeys",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "30 Rock": {
+    "imdb_id": "tt0496424",
+    "imdb_rating": 8.2,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q189350",
+    "wd_title": "30 Rock",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "4 Blocks": {
+    "imdb_id": "tt5754602",
+    "imdb_rating": 8.2,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q29960569",
+    "wd_title": "4 Blocks",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "A-Team": {
+    "imdb_id": "tt0084967",
+    "imdb_rating": 7.6,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q464123",
+    "wd_title": "The A-Team",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Adolar": {
+    "imdb_id": "tt6380522",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q16522019",
+    "wd_title": "Adolars phantastische Abenteuer",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Adventure Time": {
+    "imdb_id": "tt1305826",
+    "imdb_rating": 8.6,
+    "last_downloaded": 10,
+    "last_season_available": 10,
+    "wd_id": "Q53093",
+    "wd_title": "Adventure Time",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Airwolf": {
+    "imdb_id": "tt0086662",
+    "imdb_rating": 6.8,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q409389",
+    "wd_title": "Airwolf",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Akte X": {
+    "imdb_id": "tt0106179",
+    "imdb_rating": 8.7,
+    "last_downloaded": 11,
+    "last_season_available": 11,
+    "wd_id": "Q2744",
+    "wd_title": "The X-Files",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Alf": {
+    "imdb_id": "tt0090390",
+    "imdb_rating": 7.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q264221",
+    "wd_title": "ALF",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Alphas": {
+    "imdb_id": "tt1183865",
+    "imdb_rating": 7.3,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q498664",
+    "wd_title": "Alphas",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Altered Carbon": {
+    "imdb_id": "tt2261227",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q22906308",
+    "wd_title": "Altered Carbon",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "American Crime Story": {
+    "imdb_id": "tt2788432",
+    "imdb_rating": 8.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q18209262",
+    "wd_title": "American Crime Story",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "American Dad": {
+    "imdb_id": "tt0397306",
+    "imdb_rating": 7.4,
+    "last_downloaded": 13,
+    "last_season_available": 15,
+    "wd_id": "Q210311",
+    "wd_title": "American Dad!",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "American Gods": {
+    "imdb_id": "tt1898069",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q4743904",
+    "wd_title": "American Gods",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Anger Management": {
+    "imdb_id": "tt1986770",
+    "imdb_rating": 6.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q537952",
+    "wd_title": "Anger Management",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Animal Kingdom": {
+    "imdb_id": "tt5574490",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q22266766",
+    "wd_title": "Animal Kingdom",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Aquarius": {
+    "imdb_id": "tt3768572",
+    "imdb_rating": 7.1,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q17457913",
+    "wd_title": "Aquarius",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Archer": {
+    "imdb_id": "tt1486217",
+    "imdb_rating": 8.7,
+    "last_downloaded": 9,
+    "last_season_available": 10,
+    "wd_id": "Q632670",
+    "wd_title": "Archer",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Arielle die Meerjungfrau": {
+    "imdb_id": "tt0103477",
+    "imdb_rating": 6.9,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q944287",
+    "wd_title": "The Little Mermaid",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Arrested Development": {
+    "imdb_id": "tt0367279",
+    "imdb_rating": 8.8,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q11598",
+    "wd_title": "Arrested Development",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ascension": {
+    "imdb_id": "tt3696720",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q17454120",
+    "wd_title": "Ascension",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Baby": {
+    "imdb_id": "tt7645192",
+    "imdb_rating": 6.8,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q59101449",
+    "wd_title": "Baby",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Babylon Berlin": {
+    "imdb_id": "tt4378376",
+    "imdb_rating": 8.4,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q22998408",
+    "wd_title": "Babylon Berlin",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ballers": {
+    "imdb_id": "tt2891574",
+    "imdb_rating": 7.6,
+    "last_downloaded": 2,
+    "last_season_available": 4,
+    "wd_id": "Q4851619",
+    "wd_title": "Ballers",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Band of Brothers": {
+    "imdb_id": "tt0185906",
+    "imdb_rating": 9.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q208048",
+    "wd_title": "Band of Brothers",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Banshee": {
+    "imdb_id": "tt2017109",
+    "imdb_rating": 8.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q2813828",
+    "wd_title": "Banshee",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bates Motel": {
+    "imdb_id": "tt2188671",
+    "imdb_rating": 8.2,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q323722",
+    "wd_title": "Bates Motel",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Baywatch": {
+    "imdb_id": "tt0096542",
+    "imdb_rating": 5.2,
+    "last_downloaded": 11,
+    "last_season_available": 11,
+    "wd_id": "Q223320",
+    "wd_title": "Baywatch",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Berlin Station": {
+    "imdb_id": "tt5191110",
+    "imdb_rating": 7.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q21488911",
+    "wd_title": "Berlin Station",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Betas": {
+    "imdb_id": "tt3012184",
+    "imdb_rating": 7.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q15547994",
+    "wd_title": "Betas",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Better Call Saul": {
+    "imdb_id": "tt3032476",
+    "imdb_rating": 8.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q14925221",
+    "wd_title": "Better Call Saul",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Better Things": {
+    "imdb_id": "tt4370596",
+    "imdb_rating": 7.7,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q23016657",
+    "wd_title": "Better Things",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Better off Ted": {
+    "imdb_id": "tt1235547",
+    "imdb_rating": 8.2,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q832431",
+    "wd_title": "Better Off Ted",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Biene Maja": {
+    "imdb_id": "tt0133295",
+    "imdb_rating": 6.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q1564651",
+    "wd_title": "Maya the Honey Bee",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Big Mouth": {
+    "imdb_id": "tt6524350",
+    "imdb_rating": 8.1,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q26812666",
+    "wd_title": "Big Mouth",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Billions": {
+    "imdb_id": "tt4270492",
+    "imdb_rating": 8.4,
+    "last_downloaded": 1,
+    "last_season_available": 4,
+    "wd_id": "Q20656755",
+    "wd_title": "Billions",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Black Mirror": {
+    "imdb_id": "tt2085059",
+    "imdb_rating": 8.9,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q558112",
+    "wd_title": "Black Mirror",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Blindspot": {
+    "imdb_id": "tt4474344",
+    "imdb_rating": 7.5,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q19858482",
+    "wd_title": "Blindspot",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Blockbustaz": {
+    "imdb_id": null,
+    "imdb_rating": null,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q41051703",
+    "wd_title": "Blockbustaz",
+    "wd_type": "television program - [Q15416]"
+  },
+  "Blood Drive": {
+    "imdb_id": "tt4898282",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q25209263",
+    "wd_title": "Blood Drive",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bloodline": {
+    "imdb_id": "tt3520702",
+    "imdb_rating": 8.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q18643684",
+    "wd_title": "Bloodline",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "BoJack Horseman": {
+    "imdb_id": "tt3398228",
+    "imdb_rating": 8.5,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q17733404",
+    "wd_title": "BoJack Horseman",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Boardwalk Empire": {
+    "imdb_id": "tt0979432",
+    "imdb_rating": 8.6,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q585758",
+    "wd_title": "Boardwalk Empire",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bob's Burgers": {
+    "imdb_id": "tt1561755",
+    "imdb_rating": 8.1,
+    "last_downloaded": 7,
+    "last_season_available": 9,
+    "wd_id": "Q392396",
+    "wd_title": "Bob's Burgers",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Bones": {
+    "imdb_id": "tt0460627",
+    "imdb_rating": 7.9,
+    "last_downloaded": 7,
+    "last_season_available": 12,
+    "wd_id": "Q207803",
+    "wd_title": "Bones",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bored to Death": {
+    "imdb_id": "tt1255913",
+    "imdb_rating": 7.9,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q521289",
+    "wd_title": "Bored to Death",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bosch": {
+    "imdb_id": "tt3502248",
+    "imdb_rating": 8.4,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q16844915",
+    "wd_title": "Bosch",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Braquo": {
+    "imdb_id": "tt1429534",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 4,
+    "wd_id": "Q2923881",
+    "wd_title": "Braquo",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Breaking Bad": {
+    "imdb_id": "tt0903747",
+    "imdb_rating": 9.5,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1079",
+    "wd_title": "Breaking Bad",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Bull": {
+    "imdb_id": "tt5827228",
+    "imdb_rating": 6.9,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q24207659",
+    "wd_title": "Bull",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Cable Girls": {
+    "imdb_id": "tt5674718",
+    "imdb_rating": 7.8,
+    "last_downloaded": 2,
+    "last_season_available": 3,
+    "wd_id": "Q27443124",
+    "wd_title": "Cable Girls",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Californication": {
+    "imdb_id": "tt0904208",
+    "imdb_rating": 8.3,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q326143",
+    "wd_title": "Californication",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Captian.Planet": {
+    "imdb_id": "tt0098763",
+    "imdb_rating": 6.7,
+    "last_downloaded": 4,
+    "last_season_available": 6,
+    "wd_id": "Q463974",
+    "wd_title": "Captain Planet and the Planeteers",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Colony": {
+    "imdb_id": "tt4209256",
+    "imdb_rating": 7.4,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q19593682",
+    "wd_title": "Colony",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Columbo": {
+    "imdb_id": "tt1466074",
+    "imdb_rating": 8.2,
+    "last_downloaded": 10,
+    "last_season_available": 10,
+    "wd_id": "Q371207",
+    "wd_title": "Columbo",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Community": {
+    "imdb_id": "tt1439629",
+    "imdb_rating": 8.5,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q728553",
+    "wd_title": "Community",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Constantine": {
+    "imdb_id": "tt3489184",
+    "imdb_rating": 7.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q16862988",
+    "wd_title": "Constantine",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Countdown Copenhagen": {
+    "imdb_id": "tt5180734",
+    "imdb_rating": 7.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q29108232",
+    "wd_title": "Below the Surface",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Counterpart": {
+    "imdb_id": "tt4643084",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q20642675",
+    "wd_title": "Counterpart",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Crisis in Six Scenes": {
+    "imdb_id": "tt4354616",
+    "imdb_rating": 6.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q18844733",
+    "wd_title": "Crisis in Six Scenes",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Da Vinci's Demons": {
+    "imdb_id": "tt2094262",
+    "imdb_rating": 8.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1026696",
+    "wd_title": "Da Vinci's Demons",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Damages": {
+    "imdb_id": "tt0914387",
+    "imdb_rating": 8.1,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q912437",
+    "wd_title": "Damages",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Daniela Lowinski": {
+    "imdb_id": "tt1615237",
+    "imdb_rating": 6.6,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q683028",
+    "wd_title": "Danni Lowinski",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Daredevil": {
+    "imdb_id": "tt3322312",
+    "imdb_rating": 8.7,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q16977365",
+    "wd_title": "Daredevil",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dark": {
+    "imdb_id": "tt5753856",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q28443710",
+    "wd_title": "Dark",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dark Blue": {
+    "imdb_id": "tt1319636",
+    "imdb_rating": 7.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q1166152",
+    "wd_title": "Dark Blue",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Das Boot": {
+    "imdb_id": "tt5830254",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q29000995",
+    "wd_title": "Das Boot",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "Das iTeam - Die Jungs an der Maus": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Dead End": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Deadwind": {
+    "imdb_id": "tt6616260",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q48807611",
+    "wd_title": "Deadwind",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dear White People": {
+    "imdb_id": "tt5707802",
+    "imdb_rating": 6.3,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q28443696",
+    "wd_title": "Dear White People",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Der Kleine Prinz": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Der Pass": {
+    "imdb_id": "tt6905756",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q60759123",
+    "wd_title": "Pagan Peak",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Der Tatortreiniger": {
+    "imdb_id": "tt2147995",
+    "imdb_rating": 8.5,
+    "last_downloaded": 7,
+    "last_season_available": 4,
+    "wd_id": "Q1197327",
+    "wd_title": "Crime Scene Cleaner",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Der Wald": {
+    "imdb_id": "tt6560040",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q42336937",
+    "wd_title": "The Forest",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Designated Survivor": {
+    "imdb_id": "tt5296406",
+    "imdb_rating": 7.7,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q22662417",
+    "wd_title": "Designated Survivor",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Desparate Housewives": {
+    "imdb_id": "tt0410975",
+    "imdb_rating": 7.5,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q131758",
+    "wd_title": "Desperate Housewives",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Deutschland 83": {
+    "imdb_id": "tt4445154",
+    "imdb_rating": 8.1,
+    "last_downloaded": 2,
+    "last_season_available": 1,
+    "wd_id": "Q19278140",
+    "wd_title": "Deutschland 83",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dexter": {
+    "imdb_id": "tt0773262",
+    "imdb_rating": 8.7,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q23577",
+    "wd_title": "Dexter",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Die Bibel": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Die Br\u00fccke - Transit in den Tod": {
+    "imdb_id": "tt1733785",
+    "imdb_rating": 8.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q1211796",
+    "wd_title": "The Bridge",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Die Firma": {
+    "imdb_id": "tt0181920",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q1212452",
+    "wd_title": "Die Firma Hesselbach",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Die bezaubernde Jeanie": {
+    "imdb_id": "tt0058815",
+    "imdb_rating": 7.5,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q127337",
+    "wd_title": "I Dream of Jeannie",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dilbert": {
+    "imdb_id": "tt0118984",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q3027966",
+    "wd_title": "Dilbert",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dirk Gentlys Holistische Detektei": {
+    "imdb_id": "tt4047038",
+    "imdb_rating": 8.3,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q25396458",
+    "wd_title": "Dirk Gently's Holistic Detective Agency",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dirty Money": {
+    "imdb_id": "tt7889220",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q47642903",
+    "wd_title": "Dirty Money",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Doctor Foster": {
+    "imdb_id": "tt4602768",
+    "imdb_rating": 7.8,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q16988855",
+    "wd_title": "Doctor Foster",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dogs of Berlin": {
+    "imdb_id": "tt6839788",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q47087923",
+    "wd_title": "Dogs of Berlin",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dollhouse": {
+    "imdb_id": "tt1135300",
+    "imdb_rating": 7.7,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q632022",
+    "wd_title": "Dollhouse",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Don't Trust The B in Apartment 23": {
+    "imdb_id": "tt1819509",
+    "imdb_rating": 7.3,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q4380",
+    "wd_title": "Don't Trust the B---- in Apartment 23",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dr. House": {
+    "imdb_id": "tt0412142",
+    "imdb_rating": 8.7,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q23558",
+    "wd_title": "House",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Dragonball": {
+    "imdb_id": "tt0088509",
+    "imdb_rating": 8.5,
+    "last_downloaded": 5,
+    "last_season_available": null,
+    "wd_id": "Q239506",
+    "wd_title": "Dragon Ball",
+    "wd_type": "anime television series - [Q63952888]"
+  },
+  "Drawn Together": {
+    "imdb_id": "tt0386180",
+    "imdb_rating": 7.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q268438",
+    "wd_title": "Drawn Together",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Duck Tales": {
+    "imdb_id": "tt0092345",
+    "imdb_rating": 8.1,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q214107",
+    "wd_title": "DuckTales",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Easy": {
+    "imdb_id": "tt5562056",
+    "imdb_rating": 6.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q23057933",
+    "wd_title": "Easy",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Eine schrecklich nette Familie": {
+    "imdb_id": "tt0092400",
+    "imdb_rating": 8.1,
+    "last_downloaded": 11,
+    "last_season_available": 11,
+    "wd_id": "Q208647",
+    "wd_title": "Married... with Children",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "El Chapo": {
+    "imdb_id": "tt6692188",
+    "imdb_rating": 7.9,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q29636642",
+    "wd_title": "El Chapo",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Elementary": {
+    "imdb_id": "tt2191671",
+    "imdb_rating": 7.9,
+    "last_downloaded": 5,
+    "last_season_available": 7,
+    "wd_id": "Q247643",
+    "wd_title": "Elementary",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Eureka": {
+    "imdb_id": "tt0796264",
+    "imdb_rating": 7.9,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q614574",
+    "wd_title": "Eureka",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Everybody hates Chris": {
+    "imdb_id": "tt0460637",
+    "imdb_rating": 7.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q33323",
+    "wd_title": "Everybody Hates Chris",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "False Flag": {
+    "imdb_id": "tt5091684",
+    "imdb_rating": 7.9,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q21264956",
+    "wd_title": "False Flag",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Family Guy": {
+    "imdb_id": "tt0182576",
+    "imdb_rating": 8.2,
+    "last_downloaded": 14,
+    "last_season_available": 17,
+    "wd_id": "Q5930",
+    "wd_title": "Family Guy",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Fargo": {
+    "imdb_id": "tt2802850",
+    "imdb_rating": 9.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q15931555",
+    "wd_title": "Fargo",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Fauda": {
+    "imdb_id": "tt4565380",
+    "imdb_rating": 8.2,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q19319517",
+    "wd_title": "Fauda",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Firefly": {
+    "imdb_id": "tt0303461",
+    "imdb_rating": 9.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q11622",
+    "wd_title": "Firefly",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Flaked": {
+    "imdb_id": "tt4973548",
+    "imdb_rating": 7.2,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q19605486",
+    "wd_title": "Flaked",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "FlashForward": {
+    "imdb_id": "tt1441135",
+    "imdb_rating": 7.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q476857",
+    "wd_title": "FlashForward",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Flashpoint": {
+    "imdb_id": "tt1059475",
+    "imdb_rating": 7.8,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1066334",
+    "wd_title": "Flashpoint",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Fleabag": {
+    "imdb_id": "tt5687612",
+    "imdb_rating": 8.4,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q16868648",
+    "wd_title": "Fleabag",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Follow the Money": {
+    "imdb_id": "tt3638488",
+    "imdb_rating": 7.6,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q22247603",
+    "wd_title": "Follow the Money",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Friends": {
+    "imdb_id": "tt0108778",
+    "imdb_rating": 8.9,
+    "last_downloaded": 10,
+    "last_season_available": 10,
+    "wd_id": "Q79784",
+    "wd_title": "Friends",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Fringe": {
+    "imdb_id": "tt1119644",
+    "imdb_rating": 8.4,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q3815",
+    "wd_title": "Fringe",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Frontier": {
+    "imdb_id": "tt4686698",
+    "imdb_rating": 7.3,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q21998199",
+    "wd_title": "Frontier",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Futurama": {
+    "imdb_id": "tt0149460",
+    "imdb_rating": 8.5,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q73622",
+    "wd_title": "Futurama",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "GLOW": {
+    "imdb_id": "tt5770786",
+    "imdb_rating": 8.1,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q25208966",
+    "wd_title": "GLOW",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Game Of Thrones": {
+    "imdb_id": "tt0944947",
+    "imdb_rating": 9.5,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q23572",
+    "wd_title": "Game of Thrones",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Generation Kill": {
+    "imdb_id": "tt0995832",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q154194",
+    "wd_title": "Generation Kill",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Getting On": {
+    "imdb_id": "tt2342652",
+    "imdb_rating": 7.7,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q15736089",
+    "wd_title": "Getting On",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gigantes": {
+    "imdb_id": "tt6970690",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q56682785",
+    "wd_title": "Gigantes",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Girls": {
+    "imdb_id": "tt1723816",
+    "imdb_rating": 7.3,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q618329",
+    "wd_title": "Girls",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gomorrha": {
+    "imdb_id": "tt2049116",
+    "imdb_rating": 8.7,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q16876411",
+    "wd_title": "Gomorrah",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gotham": {
+    "imdb_id": "tt3749900",
+    "imdb_rating": 7.9,
+    "last_downloaded": 4,
+    "last_season_available": 5,
+    "wd_id": "Q15726959",
+    "wd_title": "Gotham",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gracepoint": {
+    "imdb_id": "tt3435532",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q16993210",
+    "wd_title": "Gracepoint",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Great News": {
+    "imdb_id": "tt5722324",
+    "imdb_rating": 7.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q24453768",
+    "wd_title": "Great News",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Grey's Anatomy": {
+    "imdb_id": "tt0413573",
+    "imdb_rating": 7.6,
+    "last_downloaded": 12,
+    "last_season_available": 15,
+    "wd_id": "Q438406",
+    "wd_title": "Grey's Anatomy",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Grimm": {
+    "imdb_id": "tt1830617",
+    "imdb_rating": 7.8,
+    "last_downloaded": 4,
+    "last_season_available": 6,
+    "wd_id": "Q2748",
+    "wd_title": "Grimm",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Guilt": {
+    "imdb_id": "tt5376862",
+    "imdb_rating": 6.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q24201320",
+    "wd_title": "Guilt",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gummib\u00e4renbande": {
+    "imdb_id": "tt0088528",
+    "imdb_rating": 7.6,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q734576",
+    "wd_title": "Disney's Adventures of the Gummi Bears",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Gunpowder": {
+    "imdb_id": "tt6128262",
+    "imdb_rating": 6.7,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30603293",
+    "wd_title": "Gunpowder",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Halt and Catch Fire": {
+    "imdb_id": "tt2543312",
+    "imdb_rating": 8.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q15072819",
+    "wd_title": "Halt and Catch Fire",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hand of God": {
+    "imdb_id": "tt3973768",
+    "imdb_rating": 7.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q17781855",
+    "wd_title": "Hand of God",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hannibal": {
+    "imdb_id": "tt2243973",
+    "imdb_rating": 8.5,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q888841",
+    "wd_title": "Hannibal",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hard Sun": {
+    "imdb_id": "tt6402362",
+    "imdb_rating": 6.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q42301904",
+    "wd_title": "Hard Sun",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hatufim - In der Hand des Feindes": {
+    "imdb_id": "tt1676462",
+    "imdb_rating": 8.4,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q2085782",
+    "wd_title": "Prisoners of War",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Haven": {
+    "imdb_id": "tt1519931",
+    "imdb_rating": 7.6,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q864422",
+    "wd_title": "Haven",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Helix": {
+    "imdb_id": "tt2758950",
+    "imdb_rating": 6.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q15146232",
+    "wd_title": "Helix",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Heroes": {
+    "imdb_id": "tt0813715",
+    "imdb_rating": 7.6,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q83401",
+    "wd_title": "Heroes",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hey Arnold": {
+    "imdb_id": "tt0115200",
+    "imdb_rating": 7.7,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q832054",
+    "wd_title": "Hey Arnold!",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "High Maintenance": {
+    "imdb_id": "tt2514438",
+    "imdb_rating": 8.1,
+    "last_downloaded": 2,
+    "last_season_available": 3,
+    "wd_id": "Q15995127",
+    "wd_title": "High Maintenance",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hoff the Record": {
+    "imdb_id": "tt4095622",
+    "imdb_rating": 6.9,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q20639212",
+    "wd_title": "Hoff the Record",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Homeland": {
+    "imdb_id": "tt1796960",
+    "imdb_rating": 8.3,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q23594",
+    "wd_title": "Homeland",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "House of Cards": {
+    "imdb_id": "tt1856010",
+    "imdb_rating": 8.8,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q3330940",
+    "wd_title": "House of Cards",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "House of Cards (UK)": {
+    "imdb_id": "tt0098825",
+    "imdb_rating": 8.5,
+    "last_downloaded": 3,
+    "last_season_available": 1,
+    "wd_id": "Q1055984",
+    "wd_title": "House of Cards",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "House of Lies": {
+    "imdb_id": "tt1797404",
+    "imdb_rating": 7.4,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1549157",
+    "wd_title": "House of Lies",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "How to get away with murder": {
+    "imdb_id": "tt3205802",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 5,
+    "wd_id": "Q16862534",
+    "wd_title": "How To Get Away With Murder",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Humans": {
+    "imdb_id": "tt4122068",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q19572149",
+    "wd_title": "Humans",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Hustle": {
+    "imdb_id": "tt0379632",
+    "imdb_rating": 8.2,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q841080",
+    "wd_title": "Hustle",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "H\u00f6r mal wer da h\u00e4mmert": {
+    "imdb_id": "tt0101120",
+    "imdb_rating": 7.2,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q1337212",
+    "wd_title": "Home Improvement",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "IT Crowd": {
+    "imdb_id": "tt0487831",
+    "imdb_rating": 8.5,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q239672",
+    "wd_title": "The IT Crowd",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ijon Tichy": {
+    "imdb_id": "tt0978537",
+    "imdb_rating": 7.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q320131",
+    "wd_title": "Ijon Tichy: Raumpilot",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "In Treatment": {
+    "imdb_id": "tt0835434",
+    "imdb_rating": 8.3,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1465636",
+    "wd_title": "In Treatment",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Incorporated": {
+    "imdb_id": "tt4118466",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q23787593",
+    "wd_title": "Incorporated",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Jack Taylor": {
+    "imdb_id": "tt6954652",
+    "imdb_rating": 7.8,
+    "last_downloaded": 2,
+    "last_season_available": 3,
+    "wd_id": "Q6115446",
+    "wd_title": "Jack Taylor",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Jean-Claude Van Johnson": {
+    "imdb_id": "tt6682754",
+    "imdb_rating": 7.7,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q28126895",
+    "wd_title": "Jean-Claude Van Johnson",
+    "wd_type": "television program - [Q15416]"
+  },
+  "Jericho": {
+    "imdb_id": "tt0805663",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q221237",
+    "wd_title": "Jericho",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Jerks": {
+    "imdb_id": "tt6071060",
+    "imdb_rating": 8.2,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q28649002",
+    "wd_title": "jerks.",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Jessica Jones": {
+    "imdb_id": "tt2357547",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q18605540",
+    "wd_title": "Jessica Jones",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Just One Look": {
+    "imdb_id": "tt6272384",
+    "imdb_rating": 6.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30742722",
+    "wd_title": null,
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Killing Jesus": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "King of Queens": {
+    "imdb_id": "tt0165581",
+    "imdb_rating": 7.3,
+    "last_downloaded": 9,
+    "last_season_available": 9,
+    "wd_id": "Q826594",
+    "wd_title": "The King of Queens",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "King of the Hill": {
+    "imdb_id": "tt0118375",
+    "imdb_rating": 7.3,
+    "last_downloaded": 13,
+    "last_season_available": 13,
+    "wd_id": "Q1135966",
+    "wd_title": "King of the Hill",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Kiss me First": {
+    "imdb_id": "tt5730690",
+    "imdb_rating": 6.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q28443671",
+    "wd_title": "Kiss Me First",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Klemperer - Ein Leben in Deutschland": {
+    "imdb_id": "tt0216489",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q1774092",
+    "wd_title": "Klemperer \u2013 Ein Leben in Deutschland",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Knight Rider": {
+    "imdb_id": "tt0083437",
+    "imdb_rating": 6.9,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q464009",
+    "wd_title": "Knight Rider",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Kommissarin Lund": {
+    "imdb_id": "tt0826760",
+    "imdb_rating": 8.4,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q956446",
+    "wd_title": "The Killing",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ku\u2019damm 56": {
+    "imdb_id": "tt4863504",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q23308275",
+    "wd_title": "Ku\u2019damm 56",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "La casa de papel": {
+    "imdb_id": "tt6468322",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q29647346",
+    "wd_title": "Money Heist",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Last Man On Earth": {
+    "imdb_id": "tt3230454",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 4,
+    "wd_id": "Q17052281",
+    "wd_title": "The Last Man on Earth",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Legion": {
+    "imdb_id": "tt5114356",
+    "imdb_rating": 8.3,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q24279305",
+    "wd_title": "Legion",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Leverage": {
+    "imdb_id": "tt1103987",
+    "imdb_rating": 7.9,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q868835",
+    "wd_title": "Leverage",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Lie to me": {
+    "imdb_id": "tt1235099",
+    "imdb_rating": 8.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q25182",
+    "wd_title": "Lie to Me",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Life in Pieces": {
+    "imdb_id": "tt4384086",
+    "imdb_rating": 7.9,
+    "last_downloaded": 2,
+    "last_season_available": 4,
+    "wd_id": "Q19875190",
+    "wd_title": "Life in Pieces",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Life on Mars": {
+    "imdb_id": "tt0478942",
+    "imdb_rating": 8.4,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q1071501",
+    "wd_title": "Life on Mars",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Life on Mars (US)": {
+    "imdb_id": "tt0787490",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q3832194",
+    "wd_title": "Life on Mars",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Lilyhammer": {
+    "imdb_id": "tt1958961",
+    "imdb_rating": 8.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1758072",
+    "wd_title": "Lilyhammer",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Little Britain": {
+    "imdb_id": "tt0358856",
+    "imdb_rating": 7.7,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q637033",
+    "wd_title": "Little Britain",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Longmire": {
+    "imdb_id": "tt1836037",
+    "imdb_rating": 8.3,
+    "last_downloaded": 3,
+    "last_season_available": 6,
+    "wd_id": "Q3006225",
+    "wd_title": "Longmire",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Lore": {
+    "imdb_id": "tt6130902",
+    "imdb_rating": 6.8,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q38180788",
+    "wd_title": "Lore",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Lost": {
+    "imdb_id": "tt0411008",
+    "imdb_rating": 8.4,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q23567",
+    "wd_title": "Lost",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Love Death and Robots": {
+    "imdb_id": "tt9561862",
+    "imdb_rating": 8.7,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q61740435",
+    "wd_title": "Love, Death & Robots",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Lovleg": {
+    "imdb_id": "tt9011376",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q57773929",
+    "wd_title": null,
+    "wd_type": "television program - [Q15416]"
+  },
+  "Lucky Luke": {
+    "imdb_id": "tt0175863",
+    "imdb_rating": 7.3,
+    "last_downloaded": 2,
+    "last_season_available": 1,
+    "wd_id": "Q1571053",
+    "wd_title": "Lucky Luke",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Luther": {
+    "imdb_id": "tt1474684",
+    "imdb_rating": 8.5,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q734629",
+    "wd_title": "Luther",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "MacGyver": {
+    "imdb_id": "tt0088559",
+    "imdb_rating": 7.7,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q210257",
+    "wd_title": "MacGyver",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "MacGyver (2016)": {
+    "imdb_id": "tt1399045",
+    "imdb_rating": 5.2,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q25397002",
+    "wd_title": "MacGyver",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mad Men": {
+    "imdb_id": "tt0804503",
+    "imdb_rating": 8.6,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q223977",
+    "wd_title": "Mad Men",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Madoff": {
+    "imdb_id": "tt4035574",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q21707975",
+    "wd_title": "Madoff",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Magnum, P.I": {
+    "imdb_id": "tt0080240",
+    "imdb_rating": 7.5,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q254689",
+    "wd_title": "Magnum, P.I.",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Making a Murderer": {
+    "imdb_id": "tt5189670",
+    "imdb_rating": 8.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q21784198",
+    "wd_title": "Making a Murderer",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Malcolm Mittendrin": {
+    "imdb_id": "tt0212671",
+    "imdb_rating": 8.0,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q242596",
+    "wd_title": "Malcolm in the Middle",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Manhatten": {
+    "imdb_id": "tt3231564",
+    "imdb_rating": 7.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q17317042",
+    "wd_title": "Manhattan",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Manhunt Unabomber": {
+    "imdb_id": "tt5618256",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30091619",
+    "wd_title": "Manhunt: Unabomber",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Maniac (2018)": {
+    "imdb_id": "tt5580146",
+    "imdb_rating": 7.9,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q24144688",
+    "wd_title": "Maniac",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Maniac - Original": {
+    "imdb_id": null,
+    "imdb_rating": null,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q24156458",
+    "wd_title": "Maniac",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marcella": {
+    "imdb_id": "tt5269594",
+    "imdb_rating": 7.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q24262067",
+    "wd_title": "Marcella",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marvel's The Defenders": {
+    "imdb_id": "tt4230076",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q22988401",
+    "wd_title": "The Defenders",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marvels Agent Carter": {
+    "imdb_id": "tt3475734",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q16860023",
+    "wd_title": "Agent Carter",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marvels Iron Fist": {
+    "imdb_id": "tt3322310",
+    "imdb_rating": 6.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q21148896",
+    "wd_title": "Iron Fist",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marvels Luke Cage": {
+    "imdb_id": "tt3322314",
+    "imdb_rating": 7.4,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q20646602",
+    "wd_title": "Luke Cage",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Marvels The Punisher": {
+    "imdb_id": "tt5675620",
+    "imdb_rating": 8.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q27089570",
+    "wd_title": "The Punisher",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mash": {
+    "imdb_id": "tt0068098",
+    "imdb_rating": 8.4,
+    "last_downloaded": 11,
+    "last_season_available": 11,
+    "wd_id": "Q494244",
+    "wd_title": "M*A*S*H",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Masters of Sex": {
+    "imdb_id": "tt2137109",
+    "imdb_rating": 7.9,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q2579196",
+    "wd_title": "Masters of Sex",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Matrjoschka": {
+    "imdb_id": "tt7520794",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q55632122",
+    "wd_title": "Russian Doll",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mein Name ist Earl": {
+    "imdb_id": "tt0460091",
+    "imdb_rating": 7.8,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q34659",
+    "wd_title": "My Name Is Earl",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mila Superstar": {
+    "imdb_id": "tt0296304",
+    "imdb_rating": 6.9,
+    "last_downloaded": 1,
+    "last_season_available": null,
+    "wd_id": "Q18985",
+    "wd_title": "Attack No. 1",
+    "wd_type": "Japanese TV series - [Q21191019]"
+  },
+  "Millenium": {
+    "imdb_id": "tt0115270",
+    "imdb_rating": 8.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1477859",
+    "wd_title": "Millennium",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mindhunter": {
+    "imdb_id": "tt5290382",
+    "imdb_rating": 8.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q25340152",
+    "wd_title": "Mindhunter",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Missions": {
+    "imdb_id": "tt6445112",
+    "imdb_rating": 6.8,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30742654",
+    "wd_title": "Missions (Tv Series)",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mob City": {
+    "imdb_id": "tt2176609",
+    "imdb_rating": 7.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q6683843",
+    "wd_title": "Lost Angels",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Modern Family": {
+    "imdb_id": "tt1442437",
+    "imdb_rating": 8.4,
+    "last_downloaded": 9,
+    "last_season_available": 10,
+    "wd_id": "Q16756",
+    "wd_title": "Modern Family",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Monk": {
+    "imdb_id": "tt0312172",
+    "imdb_rating": 8.0,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q189068",
+    "wd_title": "Monk",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Monster": {
+    "imdb_id": "tt0094512",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q2797615",
+    "wd_title": "Monsters",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mord mit Aussicht": {
+    "imdb_id": "tt1163573",
+    "imdb_rating": 8.2,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1407012",
+    "wd_title": "Mord mit Aussicht",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Morgen h\u00f6r ich auf": {
+    "imdb_id": "tt4368698",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q22240097",
+    "wd_title": "Morgen h\u00f6r ich auf",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Motive": {
+    "imdb_id": "tt2443340",
+    "imdb_rating": 7.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q4162473",
+    "wd_title": "Motive",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mozart in the Jungle": {
+    "imdb_id": "tt3502172",
+    "imdb_rating": 8.2,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q17070012",
+    "wd_title": "Mozart in the Jungle",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mr Selfridge": {
+    "imdb_id": "tt2310212",
+    "imdb_rating": 7.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q4127467",
+    "wd_title": "Mr Selfridge",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Mr. Robot": {
+    "imdb_id": "tt4158110",
+    "imdb_rating": 8.5,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q18844729",
+    "wd_title": "Mr. Robot",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "My Little Pony - Friendship is Magic": {
+    "imdb_id": "tt1751105",
+    "imdb_rating": 7.7,
+    "last_downloaded": 5,
+    "last_season_available": 9,
+    "wd_id": "Q5415",
+    "wd_title": "My Little Pony: Friendship Is Magic",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Narcos": {
+    "imdb_id": "tt2707408",
+    "imdb_rating": 8.8,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q20642206",
+    "wd_title": "Narcos",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Narcos - Mexico": {
+    "imdb_id": "tt8714904",
+    "imdb_rating": 8.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q55657276",
+    "wd_title": "Narcos: Mexico",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Neon Genesis Evangelion": {
+    "imdb_id": "tt0112159",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": null,
+    "wd_id": "Q662",
+    "wd_title": "Neon Genesis Evangelion",
+    "wd_type": "anime television series - [Q63952888]"
+  },
+  "Nip Tuck": {
+    "imdb_id": "tt0361217",
+    "imdb_rating": 7.7,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q221230",
+    "wd_title": "Nip/Tuck",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "No Second Chance": {
+    "imdb_id": "tt4322334",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q21055495",
+    "wd_title": "No Second Chance",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Norskov": {
+    "imdb_id": "tt4141516",
+    "imdb_rating": 7.1,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q25406281",
+    "wd_title": "Norskov",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Numb3rs": {
+    "imdb_id": "tt0433309",
+    "imdb_rating": 6.9,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q5935",
+    "wd_title": "Numbers",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Nurse Jackie": {
+    "imdb_id": "tt1190689",
+    "imdb_rating": 7.7,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q23614",
+    "wd_title": "Nurse Jackie",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Once Upon a Time... Life": {
+    "imdb_id": "tt0284735",
+    "imdb_rating": 8.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q913207",
+    "wd_title": "Once Upon a Time... Life",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Once Upon a Time\u2026 Man": {
+    "imdb_id": "tt0264244",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q767850",
+    "wd_title": "Once Upon a Time... Man",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Orange is the new Black": {
+    "imdb_id": "tt2372162",
+    "imdb_rating": 8.1,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q7099650",
+    "wd_title": "Orange Is the New Black",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Outcast": {
+    "imdb_id": "tt4229954",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q20976234",
+    "wd_title": "Outcast",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ozark": {
+    "imdb_id": "tt5071412",
+    "imdb_rating": 8.3,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q25205293",
+    "wd_title": "Ozark",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Parfum": {
+    "imdb_id": "tt6811236",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q59035925",
+    "wd_title": "Perfume",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Parks and Recreation": {
+    "imdb_id": "tt1266020",
+    "imdb_rating": 8.6,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q218035",
+    "wd_title": "Parks and Recreation",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Pastewka": {
+    "imdb_id": "tt0479842",
+    "imdb_rating": 7.8,
+    "last_downloaded": 9,
+    "last_season_available": 9,
+    "wd_id": "Q1540515",
+    "wd_title": "Pastewka",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Peaky Blinders": {
+    "imdb_id": "tt2442560",
+    "imdb_rating": 8.8,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q14944179",
+    "wd_title": "Peaky Blinders",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Person of Interest": {
+    "imdb_id": "tt1839578",
+    "imdb_rating": 8.4,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q564345",
+    "wd_title": "Person of Interest",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Philip K. Dicks Electric Dreams": {
+    "imdb_id": "tt5711280",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q24965508",
+    "wd_title": "Electric Dreams",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ping Pong - The Animation": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Please like Me": {
+    "imdb_id": "tt2155025",
+    "imdb_rating": 8.4,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q8592002",
+    "wd_title": "Please Like Me",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Portlandia": {
+    "imdb_id": "tt1780441",
+    "imdb_rating": 7.8,
+    "last_downloaded": 4,
+    "last_season_available": 8,
+    "wd_id": "Q1645442",
+    "wd_title": "Portlandia",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Preacher": {
+    "imdb_id": "tt5016504",
+    "imdb_rating": 8.1,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q19626781",
+    "wd_title": "Preacher",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Pregau": {
+    "imdb_id": "tt4785616",
+    "imdb_rating": 6.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q26962487",
+    "wd_title": "Pregau \u2013 Kein Weg zur\u00fcck",
+    "wd_type": "television film - [Q506240]"
+  },
+  "Pretty Little Liars": {
+    "imdb_id": "tt1578873",
+    "imdb_rating": 7.5,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q32450",
+    "wd_title": "Pretty Little Liars",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Prison Break": {
+    "imdb_id": "tt0455275",
+    "imdb_rating": 8.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q80044",
+    "wd_title": "Prison Break",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Psych": {
+    "imdb_id": "tt0491738",
+    "imdb_rating": 8.4,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q48758",
+    "wd_title": "Psych",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ray Donovan": {
+    "imdb_id": "tt2249007",
+    "imdb_rating": 8.3,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q2579964",
+    "wd_title": "Ray Donovan",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Real Humans": {
+    "imdb_id": "tt2180271",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q2690883",
+    "wd_title": "Real Humans",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Rectify": {
+    "imdb_id": "tt2183404",
+    "imdb_rating": 8.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q7303179",
+    "wd_title": "Rectify",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ren und Stimpy": {
+    "imdb_id": "tt0101178",
+    "imdb_rating": 7.5,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1361124",
+    "wd_title": "The Ren & Stimpy Show",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Rick and Morty": {
+    "imdb_id": "tt2861424",
+    "imdb_rating": 9.3,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q15659308",
+    "wd_title": "Rick and Morty",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Ripper Street": {
+    "imdb_id": "tt2183641",
+    "imdb_rating": 8.1,
+    "last_downloaded": 3,
+    "last_season_available": 5,
+    "wd_id": "Q2855210",
+    "wd_title": "Ripper Street",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Rockos Modernes Leben": {
+    "imdb_id": "tt0106115",
+    "imdb_rating": 8.0,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q757148",
+    "wd_title": "Rocko's Modern Life",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "SMILF": {
+    "imdb_id": "tt6274614",
+    "imdb_rating": 6.7,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q41741727",
+    "wd_title": "SMILF",
+    "wd_type": "television program - [Q15416]"
+  },
+  "SS-GB": {
+    "imdb_id": "tt4939950",
+    "imdb_rating": 6.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q22115532",
+    "wd_title": "SS-GB",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "Safe": {
+    "imdb_id": "tt7902072",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q39070847",
+    "wd_title": "Safe",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Salvation": {
+    "imdb_id": "tt6170874",
+    "imdb_rating": 7.1,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q29962692",
+    "wd_title": "Salvation",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Santa Clarita Diet": {
+    "imdb_id": "tt5580540",
+    "imdb_rating": 7.9,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q23680123",
+    "wd_title": "Santa Clarita Diet",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Scorpion": {
+    "imdb_id": "tt3514324",
+    "imdb_rating": 7.1,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q17110140",
+    "wd_title": "Scorpion",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Scrubs": {
+    "imdb_id": "tt0285403",
+    "imdb_rating": 8.4,
+    "last_downloaded": 9,
+    "last_season_available": 9,
+    "wd_id": "Q485668",
+    "wd_title": "Scrubs",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Secret Diary of a Call Girl": {
+    "imdb_id": "tt1000734",
+    "imdb_rating": 7.4,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q388389",
+    "wd_title": "Secret Diary of a Call Girl",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sedwitz": {
+    "imdb_id": "tt5172272",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q21715058",
+    "wd_title": "Sedwitz",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Seinfeld": {
+    "imdb_id": "tt0098904",
+    "imdb_rating": 8.9,
+    "last_downloaded": 9,
+    "last_season_available": 9,
+    "wd_id": "Q23733",
+    "wd_title": "Seinfeld",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Seven Seconds": {
+    "imdb_id": "tt6297682",
+    "imdb_rating": 7.7,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q28225870",
+    "wd_title": "Seven Seconds",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sex Education": {
+    "imdb_id": "tt7767422",
+    "imdb_rating": 8.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q55632932",
+    "wd_title": "Sex Education",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sex and the City": {
+    "imdb_id": "tt0159206",
+    "imdb_rating": 7.1,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q35791",
+    "wd_title": "Sex and the City",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Shameless": {
+    "imdb_id": "tt1586680",
+    "imdb_rating": 8.7,
+    "last_downloaded": 5,
+    "last_season_available": 9,
+    "wd_id": "Q23599",
+    "wd_title": "Shameless",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sherlock": {
+    "imdb_id": "tt1475582",
+    "imdb_rating": 9.1,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q192837",
+    "wd_title": "Sherlock",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Shooter": {
+    "imdb_id": "tt4181172",
+    "imdb_rating": 7.6,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q24262082",
+    "wd_title": "Shooter",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Show me a Hero": {
+    "imdb_id": "tt2492296",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q18154031",
+    "wd_title": "Show Me a Hero",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sick Note": {
+    "imdb_id": "tt5770788",
+    "imdb_rating": 6.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q28312041",
+    "wd_title": "Sick Note",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Silicon Valley": {
+    "imdb_id": "tt2575988",
+    "imdb_rating": 8.5,
+    "last_downloaded": 4,
+    "last_season_available": 5,
+    "wd_id": "Q15956708",
+    "wd_title": "Silicon Valley",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Simpsons": {
+    "imdb_id": "tt0096697",
+    "imdb_rating": 8.7,
+    "last_downloaded": 29,
+    "last_season_available": 30,
+    "wd_id": "Q886",
+    "wd_title": "The Simpsons",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Six": {
+    "imdb_id": "tt5541338",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q23469189",
+    "wd_title": "Six",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Six Feet Under": {
+    "imdb_id": "tt0248654",
+    "imdb_rating": 8.7,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q216919",
+    "wd_title": "Six Feet Under",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sleepy Hollow": {
+    "imdb_id": "tt2647544",
+    "imdb_rating": 7.4,
+    "last_downloaded": 2,
+    "last_season_available": 4,
+    "wd_id": "Q13219920",
+    "wd_title": "Sleepy Hollow",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Smiley\u2019s People": {
+    "imdb_id": null,
+    "imdb_rating": null,
+    "last_downloaded": 1,
+    "last_season_available": null,
+    "wd_id": "Q1231505",
+    "wd_title": "Smiley's People",
+    "wd_type": "written work - [Q47461344]"
+  },
+  "Sneaky Pete": {
+    "imdb_id": "tt5011816",
+    "imdb_rating": 8.2,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q21189769",
+    "wd_title": "Sneaky Pete",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Snowfall": {
+    "imdb_id": "tt6439752",
+    "imdb_rating": 7.8,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q28429799",
+    "wd_title": "Snowfall",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Sons of Anarchy": {
+    "imdb_id": "tt1124373",
+    "imdb_rating": 8.6,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q171254",
+    "wd_title": "Sons of Anarchy",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Southland": {
+    "imdb_id": "tt1299368",
+    "imdb_rating": 8.4,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1156746",
+    "wd_title": "Southland",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Southpark": {
+    "imdb_id": "tt0121955",
+    "imdb_rating": 8.7,
+    "last_downloaded": 21,
+    "last_season_available": 22,
+    "wd_id": "Q16538",
+    "wd_title": "South Park",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Spaced": {
+    "imdb_id": "tt0187664",
+    "imdb_rating": 8.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q114231",
+    "wd_title": "Spaced",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Spartacus": {
+    "imdb_id": "tt1442449",
+    "imdb_rating": 8.5,
+    "last_downloaded": -1,
+    "last_season_available": 3,
+    "wd_id": "Q1249642",
+    "wd_title": "Spartacus",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "St. Pauli Landungsbr\u00fccken": {
+    "imdb_id": "tt0078691",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q14505075",
+    "wd_title": "St. Pauli-Landungsbr\u00fccken",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Start Up": {
+    "imdb_id": null,
+    "imdb_rating": null,
+    "last_downloaded": 3,
+    "last_season_available": 4,
+    "wd_id": "Q27645759",
+    "wd_title": "Start Up",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Stranger Things": {
+    "imdb_id": "tt4574334",
+    "imdb_rating": 8.9,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q19798734",
+    "wd_title": "Stranger Things",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Stromberg": {
+    "imdb_id": "tt0428167",
+    "imdb_rating": 8.3,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q1545694",
+    "wd_title": "Stromberg",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Studio 60 on the Sunset Strip": {
+    "imdb_id": "tt0485842",
+    "imdb_rating": 8.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q431795",
+    "wd_title": "Studio 60 on the Sunset Strip",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Suburra": {
+    "imdb_id": "tt7197684",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q40119377",
+    "wd_title": "Suburra: Blood on Rome",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Suits": {
+    "imdb_id": "tt1632701",
+    "imdb_rating": 8.5,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q370185",
+    "wd_title": "Suits",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Superstore": {
+    "imdb_id": "tt4477976",
+    "imdb_rating": 7.8,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q19863018",
+    "wd_title": "Superstore",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Taken": {
+    "imdb_id": "tt5134476",
+    "imdb_rating": 6.7,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q24069296",
+    "wd_title": "Taken",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Tannbach": {
+    "imdb_id": "tt3658364",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q18715201",
+    "wd_title": "Tannbach",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "Terminator - The Sarah Connor Chronicles": {
+    "imdb_id": "tt0851851",
+    "imdb_rating": 7.7,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q94713",
+    "wd_title": "Terminator: The Sarah Connor Chronicles",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Affair": {
+    "imdb_id": "tt2699110",
+    "imdb_rating": 8.0,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q17985420",
+    "wd_title": "The Affair",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Americans": {
+    "imdb_id": "tt2149175",
+    "imdb_rating": 8.4,
+    "last_downloaded": 5,
+    "last_season_available": 6,
+    "wd_id": "Q498438",
+    "wd_title": "The Americans",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Big BangTheory": {
+    "imdb_id": "tt0898266",
+    "imdb_rating": 8.2,
+    "last_downloaded": 9,
+    "last_season_available": 12,
+    "wd_id": "Q8539",
+    "wd_title": "The Big Bang Theory",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Blacklist": {
+    "imdb_id": "tt2741602",
+    "imdb_rating": 8.1,
+    "last_downloaded": 4,
+    "last_season_available": 6,
+    "wd_id": "Q13148212",
+    "wd_title": "The Blacklist",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Blacklist - Redemption": {
+    "imdb_id": "tt5592230",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q24067015",
+    "wd_title": "The Blacklist: Redemption",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Bridge (Canada)": {
+    "imdb_id": "tt1278016",
+    "imdb_rating": 7.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q2410030",
+    "wd_title": "The Bridge",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Bridge US": {
+    "imdb_id": "tt2406376",
+    "imdb_rating": 7.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q13377593",
+    "wd_title": "The Bridge",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Bureau": {
+    "imdb_id": "tt4063800",
+    "imdb_rating": 8.7,
+    "last_downloaded": 1,
+    "last_season_available": 4,
+    "wd_id": "Q19593743",
+    "wd_title": "The Bureau",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Code": {
+    "imdb_id": "tt3914672",
+    "imdb_rating": 7.5,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q16954197",
+    "wd_title": "The Code",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Comeback": {
+    "imdb_id": "tt0434672",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q478037",
+    "wd_title": "The Comeback",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Crown": {
+    "imdb_id": "tt4786824",
+    "imdb_rating": 8.7,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q20707362",
+    "wd_title": "The Crown",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Detour": {
+    "imdb_id": "tt4903242",
+    "imdb_rating": 7.8,
+    "last_downloaded": 1,
+    "last_season_available": 3,
+    "wd_id": "Q23819585",
+    "wd_title": "The Detour",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The End Of The Fucking World": {
+    "imdb_id": "tt6257970",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30636463",
+    "wd_title": "The End of the F***ing World",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Expanse": {
+    "imdb_id": "tt3230854",
+    "imdb_rating": 8.4,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q18389644",
+    "wd_title": "The Expanse",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Extant": {
+    "imdb_id": "tt3155320",
+    "imdb_rating": 6.6,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q15072814",
+    "wd_title": "Extant",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Fall": {
+    "imdb_id": "tt2294189",
+    "imdb_rating": 8.2,
+    "last_downloaded": 2,
+    "last_season_available": 3,
+    "wd_id": "Q7733188",
+    "wd_title": "The Fall",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Fear": {
+    "imdb_id": "tt2316238",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q42301910",
+    "wd_title": "The Fear",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Following": {
+    "imdb_id": "tt2071645",
+    "imdb_rating": 7.5,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q1189631",
+    "wd_title": "The Following",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Game": {
+    "imdb_id": "tt0772137",
+    "imdb_rating": 6.8,
+    "last_downloaded": 1,
+    "last_season_available": 9,
+    "wd_id": "Q1860044",
+    "wd_title": "The Game",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Good Place": {
+    "imdb_id": "tt4955642",
+    "imdb_rating": 8.2,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q22908690",
+    "wd_title": "The Good Place",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Good Wife": {
+    "imdb_id": "tt1442462",
+    "imdb_rating": 8.3,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q19570",
+    "wd_title": "The Good Wife",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Grinder": {
+    "imdb_id": "tt4481322",
+    "imdb_rating": 7.2,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q19945977",
+    "wd_title": "The Grinder",
+    "wd_type": "American television sitcom - [Q21188110]"
+  },
+  "The Handmaids Tail": {
+    "imdb_id": "tt5834204",
+    "imdb_rating": 8.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q25207350",
+    "wd_title": "The Handmaid's Tale",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Killing": {
+    "imdb_id": "tt1637727",
+    "imdb_rating": 8.3,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q28214",
+    "wd_title": "The Killing",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Knick": {
+    "imdb_id": "tt2937900",
+    "imdb_rating": 8.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q16943599",
+    "wd_title": "The Knick",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Last Ship": {
+    "imdb_id": "tt2402207",
+    "imdb_rating": 7.5,
+    "last_downloaded": 3,
+    "last_season_available": 5,
+    "wd_id": "Q15627692",
+    "wd_title": "The Last Ship",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Leftovers": {
+    "imdb_id": "tt2699128",
+    "imdb_rating": 8.3,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q16468818",
+    "wd_title": "The Leftovers",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Little Drummer Girl": {
+    "imdb_id": "tt7598448",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q56229015",
+    "wd_title": "The Little Drummer Girl",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Looming Tower": {
+    "imdb_id": "tt6474236",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q47001863",
+    "wd_title": "The Looming Tower",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "The Man in the HIgh Castle": {
+    "imdb_id": "tt1740299",
+    "imdb_rating": 8.1,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q18844750",
+    "wd_title": "The Man in the High Castle",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Mist": {
+    "imdb_id": "tt5639976",
+    "imdb_rating": 5.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q29479900",
+    "wd_title": "The Mist",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Newsroom": {
+    "imdb_id": "tt1870479",
+    "imdb_rating": 8.6,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q276180",
+    "wd_title": "The Newsroom",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Night Manager": {
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q19865538",
+    "wd_title": "The Night Manager",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "The Night Of": {
+    "imdb_id": "tt2401256",
+    "imdb_rating": 8.5,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q17986725",
+    "wd_title": "The Night Of",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "The Orville": {
+    "imdb_id": "tt5691552",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q28429653",
+    "wd_title": "The Orville",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Pacific": {
+    "imdb_id": "tt0374463",
+    "imdb_rating": 8.3,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q598499",
+    "wd_title": "The Pacific",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Path": {
+    "imdb_id": "tt4789576",
+    "imdb_rating": 7.4,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q20758225",
+    "wd_title": "The Path",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Rain": {
+    "imdb_id": "tt6656238",
+    "imdb_rating": 6.3,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q48855569",
+    "wd_title": "The Rain",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Royals": {
+    "imdb_id": "tt3597912",
+    "imdb_rating": 7.5,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q18754951",
+    "wd_title": "The Royals",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Sinner": {
+    "imdb_id": "tt6048596",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q28443770",
+    "wd_title": "The Sinner",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Slap": {
+    "imdb_id": "tt1823011",
+    "imdb_rating": 7.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q555649",
+    "wd_title": "The Slap",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Sopranoes": {
+    "imdb_id": "tt0141842",
+    "imdb_rating": 9.2,
+    "last_downloaded": 6,
+    "last_season_available": 6,
+    "wd_id": "Q23628",
+    "wd_title": "The Sopranos",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Team": {
+    "imdb_id": "tt3681610",
+    "imdb_rating": 6.9,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q19407439",
+    "wd_title": "The Team",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Tunnel": {
+    "imdb_id": "tt2711738",
+    "imdb_rating": 7.9,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q15104549",
+    "wd_title": "The Tunnel",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Umbrella Academy": {
+    "imdb_id": "tt1312171",
+    "imdb_rating": 8.1,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q44535025",
+    "wd_title": "The Umbrella Academy",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Vampire Diaries": {
+    "imdb_id": "tt1405406",
+    "imdb_rating": 7.7,
+    "last_downloaded": 7,
+    "last_season_available": 8,
+    "wd_id": "Q28537",
+    "wd_title": "The Vampire Diaries",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Walking Dead": {
+    "imdb_id": "tt1520211",
+    "imdb_rating": 8.3,
+    "last_downloaded": 7,
+    "last_season_available": 9,
+    "wd_id": "Q232737",
+    "wd_title": "The Walking Dead",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Westwing": {
+    "imdb_id": "tt0200276",
+    "imdb_rating": 8.7,
+    "last_downloaded": 7,
+    "last_season_available": 7,
+    "wd_id": "Q3577037",
+    "wd_title": "The West Wing",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "The Wire": {
+    "imdb_id": "tt0306414",
+    "imdb_rating": 9.3,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q478360",
+    "wd_title": "The Wire",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "This Is Us": {
+    "imdb_id": "tt5555260",
+    "imdb_rating": 8.7,
+    "last_downloaded": 2,
+    "last_season_available": 3,
+    "wd_id": "Q24068191",
+    "wd_title": "This Is Us",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Tin Star": {
+    "imdb_id": "tt4607112",
+    "imdb_rating": 7.3,
+    "last_downloaded": 1,
+    "last_season_available": 2,
+    "wd_id": "Q30612281",
+    "wd_title": "Tin Star",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Tinker Tailor Soldier Spy": {
+    "imdb_id": "tt0080297",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q1230632",
+    "wd_title": "Tinker Tailor Soldier Spy",
+    "wd_type": "television film - [Q506240]"
+  },
+  "Top of the Lake": {
+    "imdb_id": "tt2103085",
+    "imdb_rating": 7.5,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q7779266",
+    "wd_title": "Top of the Lake",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Transparent": {
+    "imdb_id": "tt3502262",
+    "imdb_rating": 7.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q17014382",
+    "wd_title": "Transparent",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Treme": {
+    "imdb_id": "tt1279972",
+    "imdb_rating": 8.2,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q1784986",
+    "wd_title": "Treme",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "True Detective": {
+    "imdb_id": "tt2356777",
+    "imdb_rating": 9.0,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q7847400",
+    "wd_title": "True Detective",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Tuca and Bertie": {
+    "imdb_id": "tt8036272",
+    "imdb_rating": 7.4,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q54958428",
+    "wd_title": "Tuca & Bertie",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Turn - Washingtons Spies": {
+    "imdb_id": "tt2543328",
+    "imdb_rating": 8.1,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q15072887",
+    "wd_title": "Turn: Washington's Spies",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Twin Peaks": {
+    "imdb_id": "tt0098936",
+    "imdb_rating": 8.8,
+    "last_downloaded": 3,
+    "last_season_available": 2,
+    "wd_id": "Q2085",
+    "wd_title": "Twin Peaks",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Tyrant": {
+    "imdb_id": "tt2568204",
+    "imdb_rating": 7.8,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q16649639",
+    "wd_title": "Tyrant",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Ugly Amerians": {
+    "imdb_id": "tt1621748",
+    "imdb_rating": 8.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q1004381",
+    "wd_title": "Ugly Americans",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "Unbreakable Kimmy Schmitd": {
+    "imdb_id": "tt3339966",
+    "imdb_rating": 7.7,
+    "last_downloaded": 4,
+    "last_season_available": 4,
+    "wd_id": "Q16889037",
+    "wd_title": "Unbreakable Kimmy Schmidt",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Under The Dome": {
+    "imdb_id": "tt1553656",
+    "imdb_rating": 6.6,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q2947967",
+    "wd_title": "Under the Dome",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Unreal": {
+    "imdb_id": "tt3314218",
+    "imdb_rating": 7.9,
+    "last_downloaded": 1,
+    "last_season_available": 4,
+    "wd_id": "Q15724865",
+    "wd_title": "Unreal",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Unsolved": {
+    "imdb_id": "tt6233618",
+    "imdb_rating": 8.0,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q30514131",
+    "wd_title": "Unsolved",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "V - Die Besucher": {
+    "imdb_id": "tt1307824",
+    "imdb_rating": 6.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q219650",
+    "wd_title": "V",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Veronica Mars": {
+    "imdb_id": "tt0412253",
+    "imdb_rating": 8.4,
+    "last_downloaded": 3,
+    "last_season_available": 3,
+    "wd_id": "Q4529",
+    "wd_title": "Veronica Mars",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Vikings": {
+    "imdb_id": "tt2306299",
+    "imdb_rating": 8.6,
+    "last_downloaded": 4,
+    "last_season_available": 5,
+    "wd_id": "Q2579463",
+    "wd_title": "Vikings",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Vinyl": {
+    "imdb_id": "tt3186130",
+    "imdb_rating": 7.8,
+    "last_downloaded": 1,
+    "last_season_available": 1,
+    "wd_id": "Q20743300",
+    "wd_title": "Vinyl",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Warehouse 13": {
+    "imdb_id": "tt1132290",
+    "imdb_rating": 7.6,
+    "last_downloaded": 5,
+    "last_season_available": 5,
+    "wd_id": "Q595889",
+    "wd_title": "Warehouse 13",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Was der Schnee verbirgt": {
+    "last_downloaded": 1,
+    "skip": true
+  },
+  "Weeds": {
+    "imdb_id": "tt0439100",
+    "imdb_rating": 8.0,
+    "last_downloaded": 8,
+    "last_season_available": 8,
+    "wd_id": "Q23609",
+    "wd_title": "Weeds",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Weissensee": {
+    "imdb_id": "tt1525780",
+    "imdb_rating": 8.2,
+    "last_downloaded": 4,
+    "last_season_available": 3,
+    "wd_id": "Q823158",
+    "wd_title": "Weissensee",
+    "wd_type": "miniseries - [Q1259759]"
+  },
+  "Wentworth": {
+    "imdb_id": "tt2433738",
+    "imdb_rating": 8.6,
+    "last_downloaded": 1,
+    "last_season_available": 5,
+    "wd_id": "Q7983000",
+    "wd_title": "Wentworth",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Westworld": {
+    "imdb_id": "tt0475784",
+    "imdb_rating": 8.8,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q17572811",
+    "wd_title": "Westworld",
+    "wd_type": "television series - [Q5398426]"
+  },
+  "Willkommen in Gravity Falls": {
+    "imdb_id": "tt1865718",
+    "imdb_rating": 8.9,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q550555",
+    "wd_title": "Gravity Falls",
+    "wd_type": "animated series - [Q581714]"
+  },
+  "You are Wanted": {
+    "imdb_id": "tt5462886",
+    "imdb_rating": 6.0,
+    "last_downloaded": 2,
+    "last_season_available": 2,
+    "wd_id": "Q28966823",
+    "wd_title": "You Are Wanted",
+    "wd_type": "television series - [Q5398426]"
+  }
+}
